@@ -38,8 +38,8 @@ body {
   .card {
       float: left;
       width: 30%;
-      margin-left: 15%;
-      max-width: 260px;
+      margin-left: 10%;
+      max-width: 250px;
       min-width: 150px;
   }
   
